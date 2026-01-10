@@ -12,5 +12,5 @@ No data is sent to external servers.
 No analytics, tracking, or advertising services are used.
 
 ## Contact
-Developer: YOUR_NAME_OR_GITHUB
-Email: YOUR_EMAIL
+Developer: Adrienn Egervari
+Email: omgbites1996@gmail.com

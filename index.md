@@ -40,6 +40,5 @@ SnapBase is free to use with a generous limit:
 *If you reinstall the app or switch devices, use the **"Restore Purchases"** button in the limit dialog to reactivate your Premium status.*
 
 ---
-*Built with Jetpack Compose, ML Kit, and Room Database.*
 
 [Privacy Policy](privacy.md)
